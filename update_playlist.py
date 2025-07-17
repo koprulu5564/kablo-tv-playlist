@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 
 def fetch_and_update_playlist():
-    SOURCE_URL = "https://mth.tc/kaaablotv"
+    SOURCE_URL = "https://mth.tc/kablotv"
     OUTPUT_FILE = "playlist.m3u"
     
     try:
